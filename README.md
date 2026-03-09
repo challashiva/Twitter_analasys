@@ -269,15 +269,15 @@ nltk.download('stopwords')
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+git clone https://github.com/challashiva/Twitter_analasys.git
 
 2️⃣ Navigate to project
 
-cd twitter-sentiment-analysis
+cd Twitter_analasys
 
 3️⃣ Run the notebook or script
 
-twitter_sentiment_analysis.ipynb
+analasys_report.ipynb
 
 # 📈 Future Improvements
 
