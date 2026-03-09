@@ -84,17 +84,29 @@ Example:
 The project follows a standard Natural Language Processing pipeline.
 
 Raw Tweets
+
      ↓
+
 Text Cleaning
+
      ↓
+
 Stopword Removal
+
      ↓
+
 Feature Extraction
+
      ↓
+
 Model Training
+
      ↓
+
 Prediction
+
      ↓
+     
 Evaluation
 
 #🧹 Text Preprocessing
